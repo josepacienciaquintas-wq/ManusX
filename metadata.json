@@ -1,0 +1,8 @@
+{
+  "name": "Manus-X Creator AI",
+  "description": "Uma plataforma de criação universal inspirada no Manus AI, capaz de gerar texto, código, imagens e vídeos usando os modelos Gemini de última geração.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
